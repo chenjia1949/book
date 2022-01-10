@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T16:00:19.150Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="6JiV8EuIi6W9judGdHPV" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T02:21:23.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="XyvopafuG-d8qyqaVZBG" version="16.2.4" type="github">
   <diagram id="pshgRTUTzzbv1leQq-Qf" name="Page-1">
     <mxGraphModel dx="946" dy="604" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             <mxPoint x="615" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mlD8pJYQVbWDTCXvoRbc-3" value="Midtrans" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="mlD8pJYQVbWDTCXvoRbc-3" value="M/F" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mlD8pJYQVbWDTCXvoRbc-7" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -108,7 +108,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mlD8pJYQVbWDTCXvoRbc-34" value="支付中状态响应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mlD8pJYQVbWDTCXvoRbc-33">
+        <mxCell id="mlD8pJYQVbWDTCXvoRbc-34" value="等待支付状态响应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mlD8pJYQVbWDTCXvoRbc-33">
           <mxGeometry x="0.1733" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
